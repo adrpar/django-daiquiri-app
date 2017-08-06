@@ -1,5 +1,6 @@
 # include settimgs from daiquiri
 from daiquiri.core.settings import *
+from daiquiri.core.settings.base import *
 
 # include settings from base.py
 from .base import *

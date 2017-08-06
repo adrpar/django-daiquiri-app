@@ -1,6 +1,6 @@
 import os
 
-from . import BASE_DIR
+from daiquiri.core.settings.base import BASE_DIR
 
 DAIQUIRI_APPS = [
     'daiquiri.auth',
